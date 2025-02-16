@@ -1,6 +1,7 @@
-LAST MODIFIED: FEB 16TH 2025 AT 1:56PM, BY @nameswastaken
+LAST MODIFIED: FEB 16TH 2025 AT 6:54PM, BY @nameswastaken
 1. no documentation or ai
 2. 5 daily stack overflow passes for wish
 3. all sectors of the site and any repository that goes under the organization must have a comment in some way in it stating if people are allowed to use documentation on it.
 4. ide's dont count as documentation (unless specfically designed to be)
 5. NO FUCKING AERO
+6. squirrel has parental controls, max 1 hour of coding daily under this organization. he must request for more time to anyone else here.
